@@ -82,10 +82,8 @@ Click on the **"Add Note"** button to save the notes to the browser's local stor
 
 ## Authors
 
-* **Unnikrishnan** ([uk-krish](https://github.com/ShaanCoding/)) - *All Work*
+* **Unnikrishnan** ([uk-krish](https://github.com/uk-krish)) - *All Work*
 
 ## Acknowledgements
 
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
+* [UK-Krish](https://github.com/uk-krish)
