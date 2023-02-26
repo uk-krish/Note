@@ -59,7 +59,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 
 ```sh
-git clone https://github.com/ShaanCoding/ReadME-Generator.git
+https://github.com/uk-krish/Note.git
 ```
 
 2. Open The index.HTML file
