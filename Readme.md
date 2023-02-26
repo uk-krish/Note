@@ -64,7 +64,7 @@ https://github.com/uk-krish/Note.git
 
 2. Open The index.HTML file
 
-3. Have fun!
+3. Have fun!:collision:
 
 ## Usage
 To use the note-taking application, follow these steps:
